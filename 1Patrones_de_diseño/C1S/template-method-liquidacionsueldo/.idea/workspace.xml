@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7eced070-48c7-4cb3-9cf9-4799571e0292" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23EcMZGShEgF8eOujQi2BN5V63W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CTD-DH/Tercer_Bimestre_2022/Back_End_I/C1S/template-method-liquidacionsueldo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dh.liquidacionsueldo.main.model" />
+      <recent name="com.dh.liquidacionsueldo.main.service.impl" />
+      <recent name="com.dh.liquidacionsueldo.main.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LiquidadorTest.deberiaRetornarUnMensajeDeErrorCuandoNoSePuedeLiquidarUnEmpleado">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.dh.liquidacionsueldo.main.Main" />
+      <module name="template-method-liquidacionsueldo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiquidadorTest.deberiaEmitirUnDocumentoDigitalParaUnEmpleadoEfectivo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-method-liquidacionsueldo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.liquidacionsueldo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dh.liquidacionsueldo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dh.liquidacionsueldo.test.LiquidadorTest" />
+      <option name="METHOD_NAME" value="deberiaEmitirUnDocumentoDigitalParaUnEmpleadoEfectivo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiquidadorTest.deberiaEmitirUnDocumentoImpresoParaUnEmpleadoContratado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="template-method-liquidacionsueldo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.liquidacionsueldo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dh.liquidacionsueldo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dh.liquidacionsueldo.test.LiquidadorTest" />
+      <option name="METHOD_NAME" value="deberiaEmitirUnDocumentoImpresoParaUnEmpleadoContratado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiquidadorTest.deberiaRetornarUnMensajeDeErrorCuandoNoSePuedeLiquidarUnEmpleado" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="template-method-liquidacionsueldo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.liquidacionsueldo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dh.liquidacionsueldo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.dh.liquidacionsueldo.test.LiquidadorTest" />
+      <option name="METHOD_NAME" value="deberiaRetornarUnMensajeDeErrorCuandoNoSePuedeLiquidarUnEmpleado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.LiquidadorTest.deberiaRetornarUnMensajeDeErrorCuandoNoSePuedeLiquidarUnEmpleado" />
+      <item itemvalue="JUnit.LiquidadorTest.deberiaEmitirUnDocumentoDigitalParaUnEmpleadoEfectivo" />
+      <item itemvalue="JUnit.LiquidadorTest.deberiaEmitirUnDocumentoImpresoParaUnEmpleadoContratado" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LiquidadorTest.deberiaEmitirUnDocumentoImpresoParaUnEmpleadoContratado" />
+        <item itemvalue="JUnit.LiquidadorTest.deberiaEmitirUnDocumentoDigitalParaUnEmpleadoEfectivo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7eced070-48c7-4cb3-9cf9-4799571e0292" name="Changes" comment="" />
+      <created>1641302642970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641302642970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
